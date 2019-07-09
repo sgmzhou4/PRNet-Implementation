@@ -29,4 +29,7 @@ This is basic introduction for how to use PRNet for generating 3D vertices, dept
 <figure class="third">
     <img src="demo_image/fb.jpg" height = 180/><img src="demo_image/depth_buffer.jpg" height = 180/>
 </figure>
+
 ### 3D face demo
+
+<img src="3d face.PNG" height = 180/>
