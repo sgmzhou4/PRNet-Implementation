@@ -10,7 +10,7 @@ This is basic introduction for how to use PRNet for generating 3D vertices, dept
   
     `cd PRNet`
     
-2. Download the PRN trained model at https://drive.google.com/file/d/1UoE-XuW1SDLUjZmJPkIZ1MLxvQFgmTFH/view?usp=sharing, and put it into Data/net-data
+2. Download the PRN trained model at [Pretrained model] https://drive.google.com/file/d/1UoE-XuW1SDLUjZmJPkIZ1MLxvQFgmTFH/view?usp=sharing, and put it into Data/net-data
 
 3. Generate 3D vertices and depth map
 
@@ -20,7 +20,12 @@ This is basic introduction for how to use PRNet for generating 3D vertices, dept
 
     `python crop_face.py`
     
-5. 
-### Get 3D vertices and depth map
+5. Frontalize 3D faces
+
+    `python frontalize_face.py'
+    
+### Depth map example
+
+
 
 ### Get cropped face
